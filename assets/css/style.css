@@ -1,0 +1,19 @@
+body{
+	font-family: poppins;
+	margin: 0;
+	font-size: 20px;
+}
+h1{
+	font-size: 50px;
+	font-weight: 600;
+	margin: 0;
+}
+header{
+	background-color: gray;
+	background-repeat: no-repeat;
+	background-position: center center;
+	-webkit-background-size: cover;
+	background-size: cover;
+	weight: 100%;
+	header: 100vh;
+}
